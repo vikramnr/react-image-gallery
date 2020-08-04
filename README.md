@@ -1,4 +1,4 @@
-### nodejs-blog-app
+### react-image-gallery
 A simple React app along with tailwind-css and pixel bay
 
 View package.json for more details about dependencies
